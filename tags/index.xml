@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 春天的博尔赫斯</title>
-    <link>realencore.github.io/tags/</link>
+    <link>blankchar.com/tags/</link>
     <description>Recent content in Tags on 春天的博尔赫斯</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="realencore.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blankchar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>2023 12 19</title>
-      <link>realencore.github.io/posts/2023-12-19/</link>
+      <link>blankchar.com/posts/2023-12-19/</link>
       <pubDate>Tue, 19 Dec 2023 16:30:14 +0800</pubDate>
       
-      <guid>realencore.github.io/posts/2023-12-19/</guid>
+      <guid>blankchar.com/posts/2023-12-19/</guid>
       <description></description>
     </item>
     
@@ -26,10 +26,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>realencore.github.io/posts/hello-world/</link>
+      <link>blankchar.com/posts/hello-world/</link>
       <pubDate>Tue, 19 Dec 2023 14:49:33 +0800</pubDate>
       
-      <guid>realencore.github.io/posts/hello-world/</guid>
+      <guid>blankchar.com/posts/hello-world/</guid>
       <description>&lt;p&gt;第一篇博文。&lt;/p&gt;
 </description>
     </item>
