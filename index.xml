@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>春天的博尔赫斯</title>
-    <link>https://blankchar.com/</link>
+    <link>blankchar.com/</link>
     <description>Recent content on 春天的博尔赫斯</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 19 Dec 2023 10:22:26 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 14:49:33 +0800</lastBuildDate>
     
-	<atom:link href="https://blankchar.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blankchar.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -16,11 +16,11 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://blankchar.com/hello-world/</link>
-      <pubDate>Tue, 19 Dec 2023 10:22:26 +0800</pubDate>
+      <link>blankchar.com/posts/hello-world/</link>
+      <pubDate>Tue, 19 Dec 2023 14:49:33 +0800</pubDate>
       
-      <guid>https://blankchar.com/hello-world/</guid>
-      <description>&lt;p&gt;Hello World!&lt;/p&gt;
+      <guid>blankchar.com/posts/hello-world/</guid>
+      <description>&lt;p&gt;第一篇博文。&lt;/p&gt;
 </description>
     </item>
     
