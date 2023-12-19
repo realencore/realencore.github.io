@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 春天的博尔赫斯</title>
+    <link>https://blankchar.com/categories/</link>
+    <description>Recent content in Categories on 春天的博尔赫斯</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    
+	<atom:link href="https://blankchar.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://blankchar.com/hello-world/</link>
+      <pubDate>Tue, 19 Dec 2023 10:22:26 +0800</pubDate>
+      
+      <guid>https://blankchar.com/hello-world/</guid>
+      <description>&lt;p&gt;Hello World!&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
